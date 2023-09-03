@@ -4,7 +4,7 @@
 
 ## Установка и запуск
 
-1. Клонировать репозиторий: `git clone [URL вашего репозитория]`
+1. Клонировать репозиторий: `git clone [https://github.com/GitKors/BookShop_BackEnd.git]`
 2. Установить зависимости: `npm install`
 3. Запустить сервер: `npm run dev`
 4. cd bookshop-frontend
